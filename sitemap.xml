@@ -2,67 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/alertmanager/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/podMonitor/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/probe/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/prometheus/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/prometheusRule/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/serviceMonitor/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1/thanosRuler/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1alpha1/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.57/monitoring/v1alpha1/alertmanagerConfig/</loc>
-         <lastmod>2022-07-14</lastmod>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/alertmanager/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/podMonitor/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/probe/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/prometheus/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/prometheusRule/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/serviceMonitor/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1/thanosRuler/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1alpha1/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/prometheus-operator-libsonnet/0.58/monitoring/v1alpha1/alertmanagerConfig/</loc>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
